@@ -8,6 +8,10 @@ public static void main(String[] args) {
 	m.userId();
 	m.unreadMail();
 	
+<<<<<<< HEAD
 	System.out.println("Bye");
+=======
+	System.out.println("Hello");
+>>>>>>> 28730f4b230c52557bbaa1173785059b12a06bc4
 }
 }
